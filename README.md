@@ -2,4 +2,4 @@
 
 ## substitution cipher
 
-* [Ceaser Cipher](ceaserCipher.py)
+* [Ceasar Cipher](ceasarCipher.py)
