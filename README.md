@@ -1,6 +1,8 @@
 # Cryptography
 
-## Frequency Analysis
+## Frequency analysis
+
+* [Frequency analysis](frequencyAnalysis.py)
 
 ## Substitution cipher
 
